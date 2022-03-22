@@ -6,7 +6,7 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khoon-git&show_icons=true&locale=en&layout=compact" alt="khoon-git" /></p>
-<br>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khoon-git&show_icons=true&locale=en" alt="khoon-git" /></p>
 
