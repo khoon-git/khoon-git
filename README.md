@@ -6,9 +6,7 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khoon-git&show_icons=true&locale=en" alt="khoon-git" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khoon-git&show_icons=true&locale=en&layout=compact" alt="khoon-git" /></p>   
-&nbsp;
-
+  
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -66,6 +64,6 @@
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 </p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khoon-git&show_icons=true&locale=en&layout=compact" alt="khoon-git" /></p> 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khoon-git&" alt="khoon-git" /></p>
